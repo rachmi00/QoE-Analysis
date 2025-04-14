@@ -1,0 +1,46 @@
+﻿Respondent_ID,Age_Group,Network_Provider,Internet_Usage_Frequency,Voice_Calling_Frequency,SMS_Usage_Frequency,Poor_Network_Frequency,Response_To_Network_Problems,Provider_Switch_History,Main_Frustration,Satisfaction_Rating,Satisfaction_Reason,App_Affinity,Hesitation_Factors,Reward_Motivation,Comfort_With_Background_Info_Collection
+1,18-25,,Daily,,,Often,Airplane mode,Yes,Unreliable,3,Location dependent,Yes,Not seeing results,Yes,Yes
+2,18-25,,Daily,,,Daily,Wait,Yes,Unreliable,1,Poor network,Yes,Not seeing results,Yes,Yes
+3,18-25,,Daily,,,Daily,Wait,Yes,Unreliable,2,Poor network,Yes,Many Notifications,Yes,Yes
+4,18-25,,Daily,,,Often,Switch,Yes,Unreliable,3,Poor network,Yes,Privacy,Yes,Yes
+5,18-25,,Daily,,,Often,Airplane mode,Yes,Unreliable,3,Poor network,Yes,Privacy,Yes,Yes
+6,18-25,,Daily,,,Often,Airplane mode,Yes,Expensive,3,Poor network,Yes,Many Notifications,Yes,Yes
+7,18-25,,Daily,,,Daily,Switch,Yes,Unreliable,3,Poor network,No,Not seeing results,No,Yes
+8,18-25,Orange,Daily,,,Often,Wait,Yes,Expensive,4,Faster,Yes,Privacy,Yes,Yes
+9,18-25,Orange,Daily,,,Daily,Move,Yes,Unreliable,1,Poor network,Yes,None,Yes,Yes
+10,18-25,MTN,Daily,,,Often,Airplane mode,Yes,Expensive,2,Poor network,Yes,None,Yes,Yes
+11,18-25,MTN,Daily,,,Daily,Airplane mode,Yes,Slow,2,Poor network,Yes,Privacy,Yes,Yes
+12,18-25,MTN,Daily,,,Daily,Switch,Yes,Slow,2,Poor network,Yes,Not seeing results,Yes,Yes
+13,18-25,MTN,Daily,,,Daily,Airplane mode,No,Expensive,3,Acceptable,No,Not seeing results,Yes,No
+14,18-25,,,,,Often,Switch,Yes,Slow,3,Null,Yes,Privacy,Yes,Yes
+15,18-25,,,,,Daily,Switch,Yes,Expensive,1,Null,No,No interest,Yes,No
+16,18-25,,,,,Daily,Airplane mode,No,Expensive,1,Poor network,No,No interest,Yes,Yes
+17,18-25,,,,,Daily,Airplane mode,No,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+18,18-25,,,,,Daily,Airplane mode,Yes,Expensive,3,Faster,Yes,Not seeing results,Yes,Yes
+19,18-25,,,,,Daily,Switch,Yes,Slow,2,Poor network,Yes,Not seeing results,Yes,Yes
+20,18-25,,,,,Daily,Wait,Yes,Slow,2,Poor network,Yes,Nothing,Yes,Yes
+21,18-25,,,,,Rarely,Move,Yes,Expensive,4,Faster,No,Long forms,Yes,No
+22,18-25,,,,,Often,Airplane mode,Yes,Unreliable,2,Poor network,Yes,Not seeing results,Yes,No
+23,18-25,,,,,Often,Airplane mode,No,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+24,18-25,,,,,Often,Airplane mode,Yes,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+25,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+26,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+27,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,No,Null,Yes,Yes
+28,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,No,Null,Yes,No
+29,18-25,"MTN, Camtel",Daily,,,Daily,Wait,Yes,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+30,18-25,"MTN, Camtel",Daily,,,Daily,Wait,Yes,Expensive,1,Poor network,Yes,Not seeing results,yes,Yes
+31,18-25,MTN,Daily,,,Daily,Wait,No,Expensive,1,Poor network,Yes,Null,Yes,Yes
+32,18-25,,,,,Daily,Airplane mode,No,Slow,2,Poor network,Yes,Null,Yes,Yes
+33,18-25," MTN, Orange, Camtel",,,,Often,VPN,Yes,Slow,1,Poor network,Yes,Nothing,Yes,Yes
+34,26-35,"MTN, Orange",Daily,,,Daily,Airplane mode,Yes,Slow,1,Poor network,Yes,Data Usage,Yes,Yes
+35,18-25,MTN,Daily,,,Daily,Switch,No,Adverts,2,Poor network,Yes,Many Notifications,Yes,Yes
+36,18-25,MTN,Daily,,,Often,VPN,Yes,Slow,1,Poor network,Yes,Null,Yes,Yes
+37,18-25,,Daily,,,Often,Switch,Yes,Unreliable,1,Poor network,Yes,Many Notifications,Yes,Yes
+38,26-35,"MTN, Orange",Daily,,,Daily,Wait,Yes,Slow,2,Acceptable,Yes,Privacy,Yes,Yes
+39,26-35,"MTN, Orange, Camtel",Daily,Often,Never,Daily,Switch,Yes,Unreliable,2,Poor network,Yes,Privacy,Yes,Yes
+40,,,,,,,,,,,,,,,
+41,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,
+45,,,,,,,,,,,,,,,

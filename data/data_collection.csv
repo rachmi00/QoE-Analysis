@@ -1,0 +1,61 @@
+Respondent_ID,Age_Group,Network_Provider,Internet_Usage_Frequency,Voice_Calling_Frequency,SMS_Usage_Frequency,Poor_Network_Frequency,Response_To_Network_Problems,Provider_Switch_History,Main_Frustration,Satisfaction_Rating,Satisfaction_Reason,App_Affinity,Hesitation_Factors,Reward_Motivation,Comfort_With_Background_Info_Collection
+1,18-25,,Daily,,,Often,Airplane mode,Yes,Unreliable,3,Location dependent,Yes,Not seeing results,Yes,Yes
+2,18-25,,Daily,,,Daily,Wait,Yes,Unreliable,1,Poor network,Yes,Not seeing results,Yes,Yes
+3,18-25,,Daily,,,Daily,Wait,Yes,Unreliable,2,Poor network,Yes,Many Notifications,Yes,Yes
+4,18-25,,Daily,,,Often,Switch,Yes,Unreliable,3,Poor network,Yes,Privacy,Yes,Yes
+5,18-25,,Daily,,,Often,Airplane mode,Yes,Unreliable,3,Poor network,Yes,Privacy,Yes,Yes
+6,18-25,,Daily,,,Often,Airplane mode,Yes,Expensive,3,Poor network,Yes,Many Notifications,Yes,Yes
+7,18-25,,Daily,,,Daily,Switch,Yes,Unreliable,3,Poor network,No,Not seeing results,No,Yes
+8,18-25,Orange,Daily,,,Often,Wait,Yes,Expensive,4,Faster,Yes,Privacy,Yes,Yes
+9,18-25,Orange,Daily,,,Daily,Move,Yes,Unreliable,1,Poor network,Yes,None,Yes,Yes
+10,18-25,MTN,Daily,,,Often,Airplane mode,Yes,Expensive,2,Poor network,Yes,None,Yes,Yes
+11,18-25,MTN,Daily,,,Daily,Airplane mode,Yes,Slow,2,Poor network,Yes,Privacy,Yes,Yes
+12,18-25,MTN,Daily,,,Daily,Switch,Yes,Slow,2,Poor network,Yes,Not seeing results,Yes,Yes
+13,18-25,MTN,Daily,,,Daily,Airplane mode,No,Expensive,3,Acceptable,No,Not seeing results,Yes,No
+14,18-25,,,,,Often,Switch,Yes,Slow,3,Null,Yes,Privacy,Yes,Yes
+15,18-25,,,,,Daily,Switch,Yes,Expensive,1,Null,No,No interest,Yes,No
+16,18-25,,,,,Daily,Airplane mode,No,Expensive,1,Poor network,No,No interest,Yes,Yes
+17,18-25,,,,,Daily,Airplane mode,No,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+18,18-25,,,,,Daily,Airplane mode,Yes,Expensive,3,Faster,Yes,Not seeing results,Yes,Yes
+19,18-25,,,,,Daily,Switch,Yes,Slow,2,Poor network,Yes,Not seeing results,Yes,Yes
+20,18-25,,,,,Daily,Wait,Yes,Slow,2,Poor network,Yes,Nothing,Yes,Yes
+21,18-25,,,,,Rarely,Move,Yes,Expensive,4,Faster,No,Long forms,Yes,No
+22,18-25,,,,,Often,Airplane mode,Yes,Unreliable,2,Poor network,Yes,Not seeing results,Yes,No
+23,18-25,,,,,Often,Airplane mode,No,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+24,18-25,,,,,Often,Airplane mode,Yes,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+25,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+26,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,Yes,Not seeing results,Yes,Yes
+27,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,No,Null,Yes,Yes
+28,18-25,,,,,Daily,Airplane mode,Yes,Expensive,2,Poor network,No,Null,Yes,No
+29,18-25,"MTN, Camtel",Daily,,,Daily,Wait,Yes,Slow,1,Poor network,Yes,Not seeing results,Yes,Yes
+30,18-25,"MTN, Camtel",Daily,,,Daily,Wait,Yes,Expensive,1,Poor network,Yes,Not seeing results,yes,Yes
+31,18-25,MTN,Daily,,,Daily,Wait,No,Expensive,1,Poor network,Yes,Null,Yes,Yes
+32,18-25,,,,,Daily,Airplane mode,No,Slow,2,Poor network,Yes,Null,Yes,Yes
+33,18-25," MTN, Orange, Camtel",,,,Often,VPN,Yes,Slow,1,Poor network,Yes,Nothing,Yes,Yes
+34,26-35,"MTN, Orange",Daily,,,Daily,Airplane mode,Yes,Slow,1,Poor network,Yes,Data Usage,Yes,Yes
+35,18-25,MTN,Daily,,,Daily,Switch,No,Adverts,2,Poor network,Yes,Many Notifications,Yes,Yes
+36,18-25,MTN,Daily,,,Often,VPN,Yes,Slow,1,Poor network,Yes,Null,Yes,Yes
+37,18-25,,Daily,,,Often,Switch,Yes,Unreliable,1,Poor network,Yes,Many Notifications,Yes,Yes
+38,26-35,"MTN, Orange",Daily,,,Daily,Wait,Yes,Slow,2,Acceptable,Yes,Privacy,Yes,Yes
+39,26-35,"MTN, Orange, Camtel",Daily,Often,Never,Daily,Switch,Yes,Unreliable,2,Poor network,Yes,Privacy,Yes,Yes
+40,,,,,,Frequently,Switch network,Yes,Camtel,2,2,Yes,,Yes,Not too comfortable
+41,,,,,,Very often,Turn on airplane mode,Yes,Slow,2,Too slowdo,Yes,,Yes,I don't mind as long as my sensitive information is not collected
+42,,,,,,Daily,turn on airplane mode,Yes,Slow internet and download speeds,2,Because its poor but usable,Yes,,Yes,comfortable
+43,,,,,,Often,Curse out MTN and switch to the better alternative network,Yes,Slow sometimes,3,I would be very satisfied if there weren’t frequent network breakdowns,Yes,,No,I’m comfortable if the extent of the info collected is just signal strength and location
+44,,,,,,All the time,Refresh my mobile cellular data by turning it off and back on,Yes,Slow network,2,Slow network,Yes,,Yes,That will be great
+45,18 - 25,MTN,,,,Frequently,Go offline,Yes,Slow internet speed,1,Not satisfied,Yes,Lengthy forms,Yes,Comfortable
+46,18 - 25,MTN,,,,Everyday,On and off airplane mode,Yes,Fast data consumption,1,Because im dissatisfied na,Maybe,Too many requirements and steps,Yes,Comfortable enough
+47,18 - 25,"MTN, Orange",Often,Rarely,Rarely,Often,I go on flight mode sometimes then deactivate it to try to reconnect. Sometimes I switch to the other when one disturbs.,Yes,Orange has a low signal strength,3,"Because it's not the worst I could go through , neither is it the best . It's satisfactory.",Yes,"Too many notifications, data usage",Yes,No big deal
+48,18 - 25,MTN,Always,Often,Always,Always,nothing,Yes,poor network,1,it is worth it,No,forms,Yes,ok
+49,18 - 25,"MTN, Orange, Camtel",Always,Always,Rarely,Daily,"Restart my phone, switch sims, AIRPLANE MODE",Yes,EVERYTHING!!!!!,2,What do you mean by why? You said choose and I chose,If I feel like it then maybe I will,I've not understood the question,Absolutely,I'll tell you after
+50,18 - 25,MTN,Often,Often,Rarely,Everyday,"I usually on my airplane mode then off it again, to try and fix it",Yes,"It is slow, especially when there is no light",2,Because I spend a lot on data but it does not meet up to expectations,Yes,Lengthy forms and data usage concerns,Yes,I have no problem with that
+51,18 - 25,"Orange, Camtel",Always,Rarely,Never,Always,Change the provider...either camtel or orange,Yes,"Network disturbing, slow internet",3,Because at least I can watch youtube and stream but with low quality,Maybe,"Too many notifications, weight",Yes,Comfortable
+52,18 - 25,"MTN, Camtel",Always,Often,Rarely,Very often,Switch Network providers,Yes,It's usually unreliable sometimes and very slow networks,3,Because sometimes the network isn't slow,Yes,"Privacy concerns, lengthy forms, data usage, too many notifications, etc",Yes,I'm not comfortable with that
+53,18 - 25,MTN,Always,Always,Rarely,Slow internet,Off the data connection,No,Mtn,1,Because it really that bad,Maybe,Data usage concern,Yes,Comfortable
+54,18 - 25,MTN,Always,Often,Rarely,Daily,turn into a pilot,No,Unreliable network providers,3,because it could be worse but there are also worse network providers,Maybe,too much work,Yes,not comfortable at all
+55,18 - 25,"MTN, Camtel",Always,Often,Often,Frequently,Na for here airplane mode don die for my hand lol,Yes,Expensive,4,Cuz recently I’ve not been having issues with tye network services,No,Privacy concerns,Maybe,Yeah i think so
+56,18 - 25,"MTN, Orange, Camtel",Always,Rarely,Never,Daily,Airplane mode and back or restart phone,Yes,,2,"They do a poor work, but they still provide",Yes,"What app ? Ah ok, privacy concerns and data usage",Yes,"I mean, you're working in background, you'll be using my battery"
+57,18 - 25,MTN,Often,Often,Rarely,Frequently,"Airplane, reboot my phone or change position",Yes,Slow internet and rapid data exhaustion,2,Lack of stable network,Yes,Nothing,Yes,Totally comfortable
+58,26 - 35,MTN,Always,Always,Never,Frequently,Just wait it out.,Yes,Slow internet,1,It's just the fact,No,Not worth it,Yes,"Well, I can't tell."
+59,26 - 35,"MTN, Orange",Always,Always,Rarely,Often,Switch mobile data on and off,Yes,Poor network,1,Network is always poor,No,I’m not expecting a change so I don’t want to stress it,Maybe,Not so comfortable
+60,18 - 25,"MTN, Orange",Always,Always,Rarely,Frequently,"I change location and if it doesn't improve, I restart my phone.",Yes,Orange doesn't inform users of issues on their part,2,"Because they're better than MTN in a thousand and one ways but, they still have a lot of work to be done to improve their services.",Yes,All aspects mentioned in parentheses.,"If the app could be run offline, that'll be best.","I believe my phone already do that, but for the purpose of research, if that's the only thing it'll be collecting, then it's fine."
